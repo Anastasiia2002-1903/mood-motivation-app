@@ -1,0 +1,44 @@
+============================================
+  DAFEU - Digitaler Assistent
+  fuer emotionale Unterstuetzung
+============================================
+
+EINMALIGE EINRICHTUNG (nur beim allerersten Mal):
+--------------------------------------------------
+
+1. Python installieren:
+   - Gehe zu: https://python.org
+   - Klicke auf "Download Python"
+   - WICHTIG: Beim Installieren den Haken bei
+     "Add Python to PATH" setzen!
+   - Dann auf "Install Now" klicken
+
+2. Fertig! Alles andere macht die App automatisch.
+
+
+APP STARTEN:
+--------------------------------------------------
+
+1. Doppelklick auf "start.bat"
+   (Windows fragt evtl. ob du es ausfuehren willst
+    -> "Trotzdem ausfuehren" klicken)
+
+2. Der Browser oeffnet sich automatisch
+   Falls nicht: http://127.0.0.1:5000 im Browser eingeben
+
+3. Das schwarze Fenster (Kommandozeile) OFFEN LASSEN
+   solange du die App nutzt!
+
+
+APP BEENDEN:
+--------------------------------------------------
+
+Einfach das schwarze Fenster schliessen.
+
+
+BEI PROBLEMEN:
+--------------------------------------------------
+
+- "Python ist nicht installiert": Schritt 1 oben wiederholen
+- Seite laedt nicht: Kurz warten, nochmal http://127.0.0.1:5000 eingeben
+- App startet nicht: Rechtsklick auf start.bat -> "Als Administrator ausfuehren"
